@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ossi</h1>
-<h3 align="center">Quereinsteiger java</h3>
+<h3 align="center">Quereinsteiger in java</h3>
 <img align="right" alt="code" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
